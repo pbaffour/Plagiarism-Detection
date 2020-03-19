@@ -1,2 +1,2 @@
 # Plagiarism-Detection
-Program that detects "plagiarism" among files. 
+Program that detects similar word sequences among files. 
